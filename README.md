@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ldanielduarte
-- 👀 I’m interested in PHP, Javascript, Laravel, Vue, always the latest versions
-- 🌱 I’m currently learning whatever I need to solve my problems but I like to keep it vanilla
-- 📫 Reach me through LinkedIn: linkedin.com/in/daniel-duarte-59346b76
+- 👀 I’m currently interested in VILT (Vue.JS, Inertia, Laravel (PHP), TailwindCSS) and HOTED (HTMX, Oak framework, TailwindCSS, EJS, Deno) techstacks
+- 🌱 Always learning whatever I need to solve my problems but I like to keep it vanilla
+- 📫 Reach me through LinkedIn: https://danielduarte.eu
 
 <!---
 ldanielduarte/ldanielduarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
